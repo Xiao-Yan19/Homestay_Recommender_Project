@@ -1,0 +1,121 @@
+user_id,age_group,home_region,travel_group
+U001,26-35,Sikkim,couple
+U002,18-25,International,solo
+U003,26-35,Sikkim,friends
+U004,26-35,West Bengal,solo
+U005,18-25,West Bengal,solo
+U006,18-25,West Bengal,friends
+U007,26-35,Rest of India,couple
+U008,36-50,Rest of India,solo
+U009,36-50,West Bengal,family
+U010,26-35,Sikkim,couple
+U011,26-35,Rest of India,family
+U012,26-35,International,solo
+U013,26-35,West Bengal,family
+U014,18-25,Rest of India,solo
+U015,18-25,International,friends
+U016,26-35,Sikkim,couple
+U017,26-35,International,solo
+U018,50+,International,couple
+U019,26-35,Rest of India,couple
+U020,26-35,Rest of India,couple
+U021,50+,Rest of India,couple
+U022,26-35,West Bengal,friends
+U023,36-50,Rest of India,solo
+U024,36-50,International,family
+U025,18-25,West Bengal,couple
+U026,26-35,Rest of India,friends
+U027,26-35,Rest of India,friends
+U028,18-25,Sikkim,solo
+U029,36-50,Rest of India,couple
+U030,36-50,West Bengal,family
+U031,50+,Sikkim,couple
+U032,26-35,International,couple
+U033,26-35,Sikkim,family
+U034,50+,Rest of India,couple
+U035,18-25,Rest of India,friends
+U036,36-50,Rest of India,couple
+U037,36-50,West Bengal,solo
+U038,26-35,Sikkim,couple
+U039,26-35,West Bengal,couple
+U040,18-25,Rest of India,friends
+U041,18-25,Rest of India,solo
+U042,18-25,Rest of India,solo
+U043,36-50,Rest of India,family
+U044,50+,Rest of India,couple
+U045,18-25,West Bengal,solo
+U046,36-50,West Bengal,family
+U047,50+,International,couple
+U048,18-25,Rest of India,solo
+U049,26-35,Rest of India,friends
+U050,36-50,International,family
+U051,26-35,Sikkim,solo
+U052,18-25,International,solo
+U053,26-35,Rest of India,solo
+U054,50+,Rest of India,couple
+U055,18-25,Rest of India,solo
+U056,36-50,West Bengal,family
+U057,26-35,Rest of India,couple
+U058,18-25,Rest of India,friends
+U059,18-25,Rest of India,solo
+U060,26-35,Sikkim,solo
+U061,36-50,Rest of India,family
+U062,18-25,West Bengal,solo
+U063,50+,West Bengal,couple
+U064,26-35,Sikkim,family
+U065,50+,Rest of India,solo
+U066,36-50,West Bengal,family
+U067,26-35,Sikkim,family
+U068,18-25,West Bengal,solo
+U069,18-25,Rest of India,friends
+U070,18-25,West Bengal,friends
+U071,36-50,Sikkim,couple
+U072,50+,Sikkim,couple
+U073,26-35,International,solo
+U074,36-50,Rest of India,couple
+U075,36-50,Rest of India,family
+U076,18-25,West Bengal,solo
+U077,26-35,Sikkim,solo
+U078,18-25,West Bengal,friends
+U079,26-35,West Bengal,friends
+U080,26-35,International,solo
+U081,26-35,West Bengal,couple
+U082,50+,Sikkim,couple
+U083,18-25,West Bengal,solo
+U084,18-25,West Bengal,solo
+U085,18-25,Sikkim,solo
+U086,18-25,International,friends
+U087,36-50,Rest of India,couple
+U088,50+,International,couple
+U089,50+,Sikkim,couple
+U090,18-25,Rest of India,friends
+U091,26-35,International,friends
+U092,26-35,Rest of India,couple
+U093,18-25,International,solo
+U094,36-50,Rest of India,solo
+U095,18-25,West Bengal,friends
+U096,36-50,West Bengal,solo
+U097,26-35,Rest of India,family
+U098,26-35,West Bengal,couple
+U099,36-50,West Bengal,family
+U100,36-50,Rest of India,couple
+U101,36-50,Sikkim,friends
+U102,36-50,Rest of India,couple
+U103,36-50,International,solo
+U104,36-50,Rest of India,solo
+U105,50+,West Bengal,couple
+U106,36-50,Rest of India,couple
+U107,50+,Rest of India,solo
+U108,50+,West Bengal,family
+U109,50+,Sikkim,family
+U110,26-35,International,solo
+U111,26-35,Sikkim,solo
+U112,26-35,West Bengal,friends
+U113,18-25,Sikkim,solo
+U114,26-35,Rest of India,solo
+U115,36-50,Sikkim,family
+U116,50+,Rest of India,solo
+U117,36-50,Rest of India,family
+U118,36-50,West Bengal,couple
+U119,36-50,Sikkim,family
+U120,18-25,International,solo
